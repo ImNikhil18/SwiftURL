@@ -3,7 +3,7 @@ package handler
 import (
 	"net/http"
 
-	"github.com/ImNikhil18/SwiftURL/shortener"
+	shortener "github.com/ImNikhil18/SwiftURL/shortner"
 	"github.com/ImNikhil18/SwiftURL/store"
 	"github.com/gin-gonic/gin"
 )
